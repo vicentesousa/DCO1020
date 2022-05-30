@@ -1,5 +1,5 @@
 # DCO1020: Comunicações Móveis - 2022.1
-
+<!--
 
 ## UNIDADE I
 
@@ -46,7 +46,8 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
-<!--
+-->
+
 ## UNIDADE II
 
 ### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio) - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_2/blob/main/h02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_2/blob/main/h02.ipynb)
@@ -60,7 +61,8 @@
 
 **Faz parte da entrega a produção de um vídeo no youtube, de no máximo 5 minutos, contendo uma descrição do relatório e do código implementado (explicar brevemente o que foi feito, mostrar as formulações, mostrar como rodar o código e os gráficos gerados). O link do vídeo deve ser informado no arquivo README.txt. O vídeo é parte bem importante da avaliação.**
 
-**Prazo: 16/01/2022**
+**Prazo:**
+- As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
 ### Hands-on 2: calculadora de taxa de transmissão máxima de sistemas 4G e 5G - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_2/blob/main/h03.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_2/blob/main/h03.ipynb)
 
@@ -75,8 +77,10 @@
 
 **Importante: O vídeo no youtube deve explicar o funcionamento da interface gráfica e mostrar calculadora funcionando com a taxa mínima e a taxa máxima do sistema.**
 
-**Prazo: 30/01/2022**
+**Prazo:**
+- As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
+<!--
 
 ## UNIDADE III
 
