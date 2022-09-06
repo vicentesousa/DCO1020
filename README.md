@@ -1,4 +1,4 @@
-# DCO1020: Comunicações Móveis - 2022.1
+# DCO1020: Comunicações Móveis - 2022.2
 
 
 ## UNIDADE I
