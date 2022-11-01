@@ -63,23 +63,6 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
-### Hands-on 2: calculadora de taxa de transmissão máxima de sistemas 4G e 5G - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_2/blob/main/h03.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_2/blob/main/h03.ipynb)
-
-#### Objetivos
-- Entender o cálculo de taxa máxima de sistemas 3GPP-LTE (Release 10);
-- Modelar o cálculo de taxa máxima de sistemas de comunicação;
-- Implementar o cálculo de taxa máxima de sistemas LTE-advanced (Release 10) e 3GPP-NR (Release 15).
-
-**A entrega devem compor um único arquivo zip com os códigos e um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados).**
-
-**Faz parte da entrega a produção de um vídeo no youtube, de no máximo 5 minutos, contendo uma descrição técnica do cálculo da taxa e do código implementado (explicar brevemente o que foi feito, mostrar as formulações, mostrar como rodar o código e os gráficos gerados). O link do vídeo deve ser informado no arquivo README.txt. O vídeo é parte crucial da avaliação.**
-
-**Importante: O vídeo no youtube deve explicar o funcionamento da interface gráfica e mostrar calculadora funcionando com a taxa mínima e a taxa máxima do sistema.**
-
-**Prazo:**
-- As entregas do Hands-on 1 devem ser feitas via SIGAA;
-
-
 <!--
 
 ## UNIDADE III
