@@ -86,6 +86,10 @@
 - Modelar o controle de potência em sistemas de comunicações móveis;
 - Entender código existente e implementar novas funcionalidades.
 
+**Código Básico:**
+- O código base está em https://github.com/vicentesousa/DCO1020/tree/main/CODES/HD_05/SKELETON_UPLINK_parte_01_students
+- A primeira tarefa, além de entender o projeto, é entender o que já tem implementado no código e indentificar o que precisa ser implementado.
+
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
 
