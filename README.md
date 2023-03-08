@@ -60,7 +60,7 @@
 
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
--->
+
 ## UNIDADE II
 
 ### Hands-on 1: calculadora de taxa de transmissão máxima de sistemas 4G e 5G - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_2/blob/main/h03.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_2/blob/main/h03.ipynb)
@@ -94,7 +94,7 @@
 
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
-
+-->
 <!--
 
 
