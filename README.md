@@ -1,6 +1,6 @@
 # DCO1020: Comunicações Móveis - 2022.2
 
-<!--
+
 ## UNIDADE I
 
 ### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
@@ -28,6 +28,8 @@
 
 **Prazo:**
 - As entregas do Hands-on 1 - Parte 01 e do Hands-on 1 - Parte 02 devem ser feitas via SIGAA;
+
+<!--
 
 ### Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h01_parte_03.ipynb)
 
