@@ -29,8 +29,6 @@
 **Prazo:**
 - As entregas do Hands-on 1 - Parte 01 e do Hands-on 1 - Parte 02 devem ser feitas via SIGAA;
 
-<!--
-
 ### Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h01_parte_03.ipynb)
 
 **Objetivos:**
@@ -47,6 +45,8 @@
 
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
+
+<!--
 ### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio) - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_2/blob/main/h02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_2/blob/main/h02.ipynb)
 #### Objetivos
 - Entender a modelagem da multiplexação OFDM;
