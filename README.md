@@ -47,7 +47,7 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
--->
+
 
 ## UNIDADE II
 
@@ -80,12 +80,12 @@
 
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
+-->
 
-<!--
 
 ## UNIDADE III
 
-### Protótipo em software para modelagem da SINR e controle de potência do enlace reverso com uma camada de interferência co-canal e reuso 1 - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/h05.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_2/blob/main/h05.ipynb)
+### Protótipo em software para modelagem da SINR e controle de potência do enlace reverso com uma camada de interferência co-canal e reuso 1 - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/h05.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h05.ipynb)
 
 #### Objetivos
 - Entender o cálculo da SINR em sistemas com reúso 1;
@@ -98,7 +98,7 @@
 
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
-
+<!--
 
 ## UNIDADE III
 
