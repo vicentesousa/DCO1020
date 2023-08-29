@@ -1,6 +1,6 @@
 # DCO1020: Comunicações Móveis - 2023.1
 
-<!--
+
 
 ## UNIDADE I
 
@@ -47,7 +47,7 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
-
+<!--
 
 ## UNIDADE II
 
@@ -80,7 +80,7 @@
 
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
--->
+
 
 
 ## UNIDADE III
@@ -98,6 +98,7 @@
 
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
+-->
 <!--
 
 ## UNIDADE III
