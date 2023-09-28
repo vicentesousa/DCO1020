@@ -1,7 +1,5 @@
 # DCO1020: Comunicações Móveis - 2023.1
-
-
-
+<!--
 ## UNIDADE I
 
 ### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
@@ -47,7 +45,7 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
-<!--
+-->
 
 ## UNIDADE II
 
@@ -82,7 +80,7 @@
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
 
-
+<!--
 ## UNIDADE III
 
 ### Protótipo em software para modelagem da SINR e controle de potência do enlace reverso com uma camada de interferência co-canal e reuso 1 - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/h05.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h05.ipynb)
