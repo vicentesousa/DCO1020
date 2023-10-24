@@ -1,5 +1,5 @@
-% PURPOSE: Script for plotting simulations results for UL SINR. Protótipo
-% em software para modelagem da SINR do enlace reverso em um sistema WCDMA com uma camada de interferência co-canal e reuso 1  
+% PURPOSE: Script for plotting simulations results for UL SINR. Protï¿½tipo
+% em software para modelagem da SINR do enlace reverso em um sistema WCDMA com uma camada de interferï¿½ncia co-canal e reuso 1  
 %
 % USAGE: UL_plotting
 %
@@ -80,7 +80,7 @@ for idR = 1 : ndR
     disp([ 'Saving file:  ' outputFile ] );
     cd( resultFolder );
     saveas(gcf, outputFile , 'fig')
-    cd('../')
+    cd('./')
     close all;
     disp([num2str( 100 * (idR * nUsr )/ ( ndR * nUsr ) ) ' % of all simulations have already done...']);
 end
@@ -115,7 +115,7 @@ for iusr = 1 : nUsr
     disp([ 'Saving file:  ' outputFile ] );
     cd( resultFolder );
     saveas(gcf, outputFile , 'fig')
-    cd('../')
+    cd('./')
     close all;
     disp([num2str( 100 * (ndR * iusr )/ ( ndR * nUsr ) ) ' % of all simulations have already done...']);
 end
@@ -188,21 +188,21 @@ outputFile = [ 'SINR_UsersLoadAverageSINR_UL_sim_rep_' num2str(nRep) ];
 disp([ 'Saving file:  ' outputFile ] );
 cd( resultFolder );
 saveas(gcf, outputFile , 'fig')
-cd('../')
+cd('./')
 %
 figure(f4);
 outputFile = [ 'SINR_UsersLoad10thSINR_UL_sim_rep_' num2str(nRep) ];
 disp([ 'Saving file:  ' outputFile ] );
 cd( resultFolder );
 saveas(gcf, outputFile , 'fig')
-cd('../')
+cd('./')
 %
 figure(f5);
 outputFile = [ 'SINR_UsersLoad90thSINR_UL_sim_rep_' num2str(nRep) ];
 disp([ 'Saving file:  ' outputFile ] );
 cd( resultFolder );
 saveas(gcf, outputFile , 'fig')
-cd('../')
+cd('./')
 %
 %
 % A set of figures showing the average, 10th and 90th percentiles for different system load (each line is a different value of cell
@@ -268,20 +268,20 @@ outputFile = [ 'SINR_CellRadiusAverageSINR_UL_sim_rep_' num2str(nRep) ];
 disp([ 'Saving file:  ' outputFile ] );
 cd( resultFolder );
 saveas(gcf, outputFile , 'fig')
-cd('../')
+cd('./')
 %
 figure(f7);
 outputFile = [ 'SINR_CellRadius10thSINR_UL_sim_rep_' num2str(nRep) ];
 disp([ 'Saving file:  ' outputFile ] );
 cd( resultFolder );
 saveas(gcf, outputFile , 'fig')
-cd('../')
+cd('./')
 %
 figure(f8);
 outputFile = [ 'SINR_CellRadius90thSINR_UL_sim_rep_' num2str(nRep) ];
 disp([ 'Saving file:  ' outputFile ] );
 cd( resultFolder );
 saveas(gcf, outputFile , 'fig')
-cd('../');
+cd('./');
 close all;
 disp('All plots are saved and closed.')

@@ -1,7 +1,7 @@
 function fUL_sim_Skelenton( dUserPerSector, dR, nRep, resultFolder )
 % PURPOSE: Skeleton for modeling SINR on Uplink (simulation itself).
-% Protótipo em software para modelagem da SINR do enlace reverso em
-% um sistema WCDMA com uma camada de interferência co-canal e reuso 1 
+% Protï¿½tipo em software para modelagem da SINR do enlace reverso em
+% um sistema WCDMA com uma camada de interferï¿½ncia co-canal e reuso 1 
 %
 % USAGE: fUL_sim( dUserPerSector, dR, nRep, resultFolder )
 %
@@ -58,15 +58,15 @@ vtSectorPos = zeros( dUserPerSector, 1 );
 %
 for isim = 1: nRep
     %% Environment creation
-    % Matriz com a posição (complexa) de cada usuário de cada uma das 7
-    % ERBS (a posição é relativa a sua ERB servidora)
-    % Nas linhas: usuários
+    % Matriz com a posiï¿½ï¿½o (complexa) de cada usuï¿½rio de cada uma das 7
+    % ERBS (a posiï¿½ï¿½o ï¿½ relativa a sua ERB servidora)
+    % Nas linhas: usuï¿½rios
     % Nas colunas: ERB
     for is = 1 : length( vtBs )
         dCenter = vtBs( is );
         mtSectorPos( :, is ) = fPosUsrSector( dUserPerSector, dCenter, dR );
     end
-    % Distância dos usuários da célula central para a célula central (TODO: students implementation)
+    % Distï¿½ncia dos usuï¿½rios da cï¿½lula central para a cï¿½lula central (TODO: students implementation)
     dUserErbDistance = User2BSDistance( mtSectorPos, vtBs, 1 );
     % Pathloss (TODO: students implementation)
     Lp_dB = OkumuraHata( fc, ht, hr, dUserErbDistance/1e3, envFlag );
@@ -76,7 +76,7 @@ for isim = 1: nRep
     % Evaluation of the vector of receive powers of desired users to the
     % server BS (central cell) (TODO: students implementation)
     vtPr = calculateReceivePower(Ga, Xs, ptx, Lp);
-    %% Interferência
+    %% Interferï¿½ncia
     mtInter = [];
     vtInterTotalPower = [];
     for ibInter = 2 : 7
@@ -103,5 +103,5 @@ filename = ['UL_sim_users_' num2str(dUserPerSector) '_cellRadius_' num2str(dR) '
 cd(resultFolder);
 simTime = toc;
 save( filename, 'vtSINR', 'simTime' );
-cd('../')
+cd('./')
 
