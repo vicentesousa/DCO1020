@@ -1,4 +1,4 @@
-# DCO1020: Comunicações Móveis - 2023.1
+# DCO1020: Comunicações Móveis - 2023.2
 <!--
 ## UNIDADE I
 
