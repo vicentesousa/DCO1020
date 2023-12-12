@@ -134,6 +134,17 @@
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
 
+
+### Hands-on 05: Alternative installation of the whole 5G system - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/H01_5GFast_Deployment_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/H01_5GFast_Deployment_UNI_III.ipynb)
+
+#### Objetivos
+- Install and configure the whole 5G System with docker-compose
+
+**Entrega:**
+- Defined in  the previous hands-ons.
+
+
+
 <!--
 ## UNIDADE III
 
