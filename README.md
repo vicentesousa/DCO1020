@@ -1,5 +1,6 @@
 # DCO1020: Comunicações Móveis - 2024.1
 
+<!--
 ## UNIDADE I
 
 ### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
@@ -45,8 +46,8 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
+-->
 
-<!--
 ## UNIDADE II
 
 ### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio) - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_2/blob/main/h02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h02.ipynb)
@@ -79,6 +80,7 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
+<!--
 
 ## UNIDADE III
 
@@ -100,7 +102,7 @@
 - Install and configure the 5GC of OAI in a virtual machine Ubuntu 20.04 LTS (Focal Fossa)
 - Deploy 5GC Core
 - Inspec 5G Core Docker containers by means of command line instructions
-- Install and configure Portainer tool
+- Install and configure the Portainer tool
 - Inspec 5G Core Docker containers by means of Portainer browser
 
 **Entrega:**
@@ -113,7 +115,7 @@
 
 #### Objetivos
 - Install and configure the OAI gNB
-- Deploy a gNB together a previously configured 5GC
+- Deploy a gNB together with a previously configured 5GC
 - Inspec gNB status in 5GC Core
 
 **Entrega:**
@@ -141,9 +143,10 @@
 - Install and configure the whole 5G System with docker-compose
 
 **Entrega:**
-- Defined in  the previous hands-ons.
+- Defined in the previous hands-on.
 
 
+-->
 
 <!--
 ## UNIDADE III
@@ -177,8 +180,6 @@
 
 ## UNIDADE III
 
-
-
 ## Parte 2
 
 ### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/h02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h02.ipynb)
@@ -194,9 +195,6 @@
 
 
 ## Parte 3
-
-
-
 
 
 
