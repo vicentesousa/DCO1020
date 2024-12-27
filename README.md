@@ -1,6 +1,6 @@
 # DCO1020: Comunicações Móveis - 2024.2
 
-
+<!--
 ## UNIDADE I
 
 ### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
@@ -78,7 +78,7 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
-<!--
+-->
 
 ## UNIDADE III
 
@@ -134,7 +134,7 @@
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
 
-
+<!--
 ### Hands-on 05: Alternative installation of the whole 5G system - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/H01_5GFast_Deployment_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/H01_5GFast_Deployment_UNI_III.ipynb)
 
 #### Objetivos
@@ -143,9 +143,9 @@
 **Entrega:**
 - Defined in the previous hands-on.
 
--->
 
-<!--
+
+
 ## UNIDADE III
 
 ### Protótipo em software para modelagem da SINR e controle de potência do enlace reverso com uma camada de interferência co-canal e reuso 1 - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/h05.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h05.ipynb)
