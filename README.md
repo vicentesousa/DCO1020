@@ -1,4 +1,4 @@
-# DCO1020: Comunicações Móveis - 2024.2
+# DCO1020: Comunicações Móveis - 2025.1
 
 
 ## UNIDADE I
@@ -108,7 +108,7 @@
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
 
--->
+
 ### Hands-on 02: Instalação de Núcleo do Rede 5G (5GC) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/H01_5GCore_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/H01_5GCore_UNI_III.ipynb)
 
 #### Objetivos
@@ -176,8 +176,6 @@
 
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
--->
-<!--
 
 ## UNIDADE III
 
