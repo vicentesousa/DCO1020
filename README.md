@@ -5,6 +5,21 @@
 
 ### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
 
+#### Avaliação de cobertura celular [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/h01_2025.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h01_2025.ipynb)
+
+**Objetivos:**
+- Criação de Grid Hexagonal para modelar cobertura de Estações Rádio Base
+- Análise visual de potência recebida 
+- Análise de Outage de potência
+
+<!--
+# DCO1020: Comunicações Móveis - 2024.2
+
+
+## UNIDADE I
+
+### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
+
 #### Parte 01: Avaliação de cobertura celular [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/h01_parte01.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h01_parte01.ipynb)
 
 **Objetivos:**
@@ -45,7 +60,7 @@
 
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
-<!--
+
 ## UNIDADE II
 
 ### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio) - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_2/blob/main/h02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h02.ipynb)
