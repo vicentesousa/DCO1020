@@ -5,7 +5,7 @@
 
 ### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
 
-#### Avaliação de cobertura celular [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/h01_2025.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h01_2025.ipynb)
+#### Avaliação de cobertura celular [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h01_2025.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/h01_2025.ipynb)
 
 **Objetivos:**
 - Criação de Grid Hexagonal para modelar cobertura de Estações Rádio Base
