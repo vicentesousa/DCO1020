@@ -12,6 +12,26 @@
 - Análise visual de potência recebida 
 - Análise de Outage de potência
 
+### Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte_03_2025.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte_03_2025.ipynb)
+
+**Objetivos:**
+- Gerar uma série temporal sintética com Perda de Percurso, Sombreamento e Desvanecimento m-Nakagami;
+- Estimar cada desvanecimento por meio de regressão linear, filtragem e tratamento estatístico;
+- Fazer gráficos e comparar as partes geradas sinteticamente e as partes estimadas.
+
+**Entregas:**
+- As entregas estão especificadas ao longo do Hands-on;
+- As entregas devem compor um único arquivo **zip** com os códigos separados nas seguintes pastas: Entrega_01. 
+- A pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). 
+- Não será necessário produzir um relatório. Contudo, é parte importante da entrega a produção de vídeos (compartilhados no google drive ou youtube), contendo a descrição do código implementado (explicar brevemente o que foi feito, mostrar as formulações em slides se necessário, mostrar como rodar o código e os gráficos gerados). O link do vídeo deve ser informado no arquivo README.txt (caso necessite, compartilhe o vídeo com **vicente.sousa@ufrn.br**);
+- Um vídeo de até 5 minutos deve conter o conteúdo da Entrega_01.
+
+**Prazo:**
+- As entregas do Hands-on 1 devem ser feitas via SIGAA;
+
+
+
+
 <!--
 # DCO1020: Comunicações Móveis - 2024.2
 
