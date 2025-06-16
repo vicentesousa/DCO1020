@@ -112,7 +112,7 @@
 
 ## UNIDADE III
 
-### Hands-on 01: Instalação de Máquina Virtual - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/H00_VM_VBox.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/H00_VM_VBox.ipynb)
+### Hands-on 01: Instalação de Máquina Virtual - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/H00_VM_VBox.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/H00_VM_VBox.ipynb)
 
 #### Objetivos
 - Instalar e configurar uma maquina virtual Linux Ubuntu 22.04 LTS (Focal Fossa). **ATENÇÃO:** Ubuntu 22.04 e não o 20.04!!!.
@@ -124,7 +124,7 @@
 - As entregas devem ser feitas via SIGAA.
 
 
-### Hands-on 02: Instalação de Núcleo do Rede 5G (5GC) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/H01_5GCore_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/H01_5GCore_UNI_III.ipynb)
+### Hands-on 02: Instalação de Núcleo do Rede 5G (5GC) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons//H01_5GCore_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons//H01_5GCore_UNI_III.ipynb)
 
 #### Objetivos
 - Install and configure the 5GC of OAI in a virtual machine Ubuntu 22.04 LTS (Focal Fossa)
@@ -139,15 +139,12 @@
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
 
-### Hands-on 03: Instalação da estação base 5G (gNB) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/H02_5G_gNB_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/H02_5G_gNB_UNI_III.ipynb)
+### Hands-on 03: Instalação da estação base 5G (gNB) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/H02_5G_gNB_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/H02_5G_gNB_UNI_III.ipynb)
 
 #### Objetivos
 - Install and configure the OAI gNB
 - Deploy a gNB together with a previously configured 5GC
 - Inspec gNB status in 5GC Core
-
-**Troubleshooting:**
-- Material from previous students to setup Windows machine: [Link]([https://github.com/vicentesousa/DCO1020/blob/main/H02_5G_gNB_UNI_III.ipynb](https://github.com/vicentesousa/DCO1020/blob/main/CODES/H01_5GCore_UNI_III/Tutorial_Remover_Tartaruga_Virtual_Box.pdf))
 
 **Entrega:**
 - Vídeo de até 5 minutos apresentando a estação base 5G instalada, respondendo as questões levantadas com as devidas evidências.
@@ -155,7 +152,7 @@
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
 
-### Hands-on 04: Instalação do User Equipment (UE) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/H03_5G_UE_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/H03_5G_UE_UNI_III.ipynb)
+### Hands-on 04: Instalação do User Equipment (UE) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/H03_5G_UE_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/H03_5G_UE_UNI_III.ipynb)
 
 #### Objetivos
 - Install and configure a UE
