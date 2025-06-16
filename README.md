@@ -124,7 +124,7 @@
 - As entregas devem ser feitas via SIGAA.
 
 
-### Hands-on 02: Instalação de Núcleo do Rede 5G (5GC) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/H01_5GCore_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/H01_5GCore_UNI_III.ipynb)
+### Hands-on 02: Instalação de Núcleo do Rede 5G (5GC) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_on/H01_5GCore_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_on/H01_5GCore_UNI_III.ipynb)
 
 #### Objetivos
 - Install and configure the 5GC of OAI in a virtual machine Ubuntu 22.04 LTS (Focal Fossa)
