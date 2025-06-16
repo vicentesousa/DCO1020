@@ -115,7 +115,7 @@
 ### Hands-on 01: Instalação de Máquina Virtual - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/H00_VM_VBox.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/H00_VM_VBox.ipynb)
 
 #### Objetivos
-- Instalar e configurar uma maquina virtual Linux Ubuntu 22.04 LTS (Focal Fossa).
+- Instalar e configurar uma maquina virtual Linux Ubuntu 22.04 LTS (Focal Fossa). **ATENÇÃO:** Ubuntu 22.04 e não o 20.04!!!.
 
 **Entrega:**
 - Vídeo de até 3 minutos apresentando a máquina virtual rodando e enumerando se houve algum problema de instalação, indicando as soluções.
