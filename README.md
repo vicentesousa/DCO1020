@@ -146,6 +146,9 @@
 - Deploy a gNB together with a previously configured 5GC
 - Inspec gNB status in 5GC Core
 
+**Troubleshooting:**
+- Material from previous students to setup Windows machine: [Link]([https://github.com/vicentesousa/DCO1020/blob/main/H02_5G_gNB_UNI_III.ipynb](https://github.com/vicentesousa/DCO1020/blob/main/CODES/H01_5GCore_UNI_III/Tutorial_Remover_Tartaruga_Virtual_Box.pdf))
+
 **Entrega:**
 - Vídeo de até 5 minutos apresentando a estação base 5G instalada, respondendo as questões levantadas com as devidas evidências.
 
