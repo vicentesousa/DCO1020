@@ -1,6 +1,6 @@
 # DCO1020: Comunicações Móveis - 2025.1
 
-
+<!--
 ## UNIDADE I
 
 ### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
@@ -29,11 +29,6 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
-
-
-
-<!--
-# DCO1020: Comunicações Móveis - 2024.2
 
 
 ## UNIDADE I
@@ -113,14 +108,14 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
-
+-->
 
 ## UNIDADE III
 
 ### Hands-on 01: Instalação de Máquina Virtual - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/H00_VM_VBox.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/H00_VM_VBox.ipynb)
 
 #### Objetivos
-- Instalar e configurar uma maquina virtual Linux Ubuntu 20.04 LTS (Focal Fossa).
+- Instalar e configurar uma maquina virtual Linux Ubuntu 22.04 LTS (Focal Fossa).
 
 **Entrega:**
 - Vídeo de até 3 minutos apresentando a máquina virtual rodando e enumerando se houve algum problema de instalação, indicando as soluções.
@@ -132,7 +127,7 @@
 ### Hands-on 02: Instalação de Núcleo do Rede 5G (5GC) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/H01_5GCore_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/H01_5GCore_UNI_III.ipynb)
 
 #### Objetivos
-- Install and configure the 5GC of OAI in a virtual machine Ubuntu 20.04 LTS (Focal Fossa)
+- Install and configure the 5GC of OAI in a virtual machine Ubuntu 22.04 LTS (Focal Fossa)
 - Deploy 5GC Core
 - Inspec 5G Core Docker containers by means of command line instructions
 - Install and configure the Portainer tool
