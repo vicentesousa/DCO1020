@@ -1,4 +1,4 @@
-# DCO1020: Comunicações Móveis - 2025.1
+# DCO1020: Comunicações Móveis - 2025.2
 
 <!--
 ## UNIDADE I
@@ -29,7 +29,7 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
-
+-->
 
 ## UNIDADE I
 
@@ -76,6 +76,8 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
+<!--
+
 ## UNIDADE II
 
 ### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio) - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_2/blob/main/h02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h02.ipynb)
@@ -108,7 +110,6 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
--->
 
 ## UNIDADE III
 
