@@ -35,14 +35,14 @@
 
 ### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
 
-#### Parte 01: Avaliação de cobertura celular [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/h01_parte01.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h01_parte01.ipynb)
+#### Parte 01: Avaliação de cobertura celular [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte01.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte01.ipynb)
 
 **Objetivos:**
 - Criação de Grid Hexagonal para modelar cobertura de Estações Rádio Base
 - Análise visual de potência recebida 
 - Análise de Outage de potência
 
-####  Parte 02: Modelagem da cobertura celula com sombreamento - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/h01_parte02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h01_parte02.ipynb)
+####  Parte 02: Modelagem da cobertura celula com sombreamento - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte02.ipynb)
 
 **Objetivos:**
 - Análise visual de potência recebida com sobreamento
@@ -59,7 +59,7 @@
 **Prazo:**
 - As entregas do Hands-on 1 - Parte 01 e do Hands-on 1 - Parte 02 devem ser feitas via SIGAA;
 
-### Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h01_parte_03.ipynb)
+### Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte_03.ipynb)
 
 **Objetivos:**
 - Gerar uma série temporal sintética com Perda de Percurso, Sombreamento e Desvanecimento m-Nakagami;
