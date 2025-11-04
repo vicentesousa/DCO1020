@@ -29,7 +29,7 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
--->
+
 
 ## UNIDADE I
 
@@ -76,7 +76,7 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
-<!--
+-->
 
 ## UNIDADE II
 
@@ -87,12 +87,14 @@
 - Entender a modelagem da demultiplexação OFDM;
 - Demonstrar o processo de demultiplexação OFDM em canais AWGN.
 
-**A entrega devem compor um único arquivo zip com os códigos e um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados).** 
+**A entrega deve compor um único arquivo zip com os códigos e um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados).** 
 
 **Faz parte da entrega a produção de um vídeo no youtube, de no máximo 5 minutos, contendo uma descrição do relatório e do código implementado (explicar brevemente o que foi feito, mostrar as formulações, mostrar como rodar o código e os gráficos gerados). O link do vídeo deve ser informado no arquivo README.txt. O vídeo é parte bem importante da avaliação.**
 
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
+
+<!--
 
 ### Hands-on 2: calculadora de taxa de transmissão máxima de sistemas 4G e 5G - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_2/blob/main/h03.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h03.ipynb)
 
