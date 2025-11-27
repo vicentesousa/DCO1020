@@ -112,9 +112,6 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
-
-## UNIDADE III
-
 ### Hands-on 01: Instalação de Máquina Virtual - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/H00_VM_VBox.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/H00_VM_VBox.ipynb)
 
 #### Objetivos
@@ -127,7 +124,11 @@
 - As entregas devem ser feitas via SIGAA.
 
 
-### Hands-on 02: Instalação de Núcleo do Rede 5G (5GC) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons//H01_5GCore_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons//H01_5GCore_UNI_III.ipynb)
+-->
+
+## UNIDADE III
+
+### Hands-on 01: Instalação de Núcleo do Rede 5G (5GC) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons//H01_5GCore_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons//H01_5GCore_UNI_III.ipynb)
 
 #### Objetivos
 - Install and configure the 5GC of OAI in a virtual machine Ubuntu 22.04 LTS (Focal Fossa)
@@ -137,12 +138,12 @@
 - Inspec 5G Core Docker containers by means of Portainer browser
 
 **Entrega:**
-- Vídeo de até 5 minutos apresentando o 5GC instalado, respondendo as questões levantadas com as devidas evidências.
+- Apresentação sem sala mostrando o 5GC instalado e respondendo as questões levantadas com as devidas evidências.
 
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
 
-### Hands-on 03: Instalação da estação base 5G (gNB) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/H02_5G_gNB_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/H02_5G_gNB_UNI_III.ipynb)
+### Hands-on 02: Instalação da estação base 5G (gNB) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/H02_5G_gNB_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/H02_5G_gNB_UNI_III.ipynb)
 
 #### Objetivos
 - Install and configure the OAI gNB
@@ -150,19 +151,19 @@
 - Inspec gNB status in 5GC Core
 
 **Entrega:**
-- Vídeo de até 5 minutos apresentando a estação base 5G instalada, respondendo as questões levantadas com as devidas evidências.
+- Apresentação sem sala mostrando o gNB instalada e respondendo as questões levantadas com as devidas evidências.
 
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
 
-### Hands-on 04: Instalação do User Equipment (UE) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/H03_5G_UE_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/H03_5G_UE_UNI_III.ipynb)
+### Hands-on 03: Instalação do User Equipment (UE) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/H03_5G_UE_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/H03_5G_UE_UNI_III.ipynb)
 
 #### Objetivos
 - Install and configure a UE
 - See the UE attached to the previously installed gNB and Core
 
 **Entrega:**
-- Vídeo de até 5 minutos apresentando o UE instalado, respondendo as questões levantadas com as devidas evidências.
+- Apresentação sem sala mostrando o UE instalado e respondendo as questões levantadas com as devidas evidências.
 
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
