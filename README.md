@@ -1,4 +1,4 @@
-# DCO1020: Comunicações Móveis - 2025.2
+# DCO1020: Comunicações Móveis - 2026.1
 
 
 ## UNIDADE I
