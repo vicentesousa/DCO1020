@@ -7,9 +7,9 @@
 
 #### Avaliação de cobertura celular 
 
-##### Código em Matlab: [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h01_2026_Matlab.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/h01_2026_Matlab.ipynb)
+#### Código em Matlab: [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h01_2026_Matlab.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/h01_2026_Matlab.ipynb)
 
-##### Código em Python: [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h01_2026_Python.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/h01_2026_Python.ipynb)
+#### Código em Python: [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h01_2026_Python.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/h01_2026_Python.ipynb)
 
 **Objetivos:**
 - Criação de Grid Hexagonal para modelar cobertura de Estações Rádio Base
