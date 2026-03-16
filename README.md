@@ -16,7 +16,11 @@
 - Análise visual de potência recebida 
 - Análise de Outage de potência
 
-### Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte_03_2025.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte_03_2025.ipynb)
+### Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) 
+
+#### Código em Matlab: [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte_03_2026_Matlab.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte_03_2026_Matlab.ipynb)
+
+#### Código em Python: [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte_03_2026_Python.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte_03_2026_Python.ipynb)
 
 **Objetivos:**
 - Gerar uma série temporal sintética com Perda de Percurso, Sombreamento e Desvanecimento m-Nakagami;
