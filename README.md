@@ -16,6 +16,8 @@
 - Análise visual de potência recebida 
 - Análise de Outage de potência
 
+**Entrega**: apresentação em slides com os gráficos e discussão.
+
 ### Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) 
 
 #### Código em Matlab: [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte_03_2026_Matlab.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte_03_2026_Matlab.ipynb)
