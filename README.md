@@ -1,5 +1,6 @@
 # DCO1020: Comunicações Móveis - 2026.1
 
+<!--
 
 ## UNIDADE I
 
@@ -38,8 +39,6 @@
 
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
-
-<!--
 
 ## UNIDADE I
 
@@ -93,7 +92,7 @@
 ### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h02.ipynb)
 #### Objetivos
 - Entender a modelagem da multiplexação OFDM;
-- Entender o processo de ortogalização entre subportadoras OFDM;
+- Entender o processo de ortogonalização entre subportadoras OFDM;
 - Entender a modelagem da demultiplexação OFDM;
 - Demonstrar o processo de demultiplexação OFDM em canais AWGN.
 
@@ -103,8 +102,6 @@
 
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
-
-
 
 ### Hands-on 2: calculadora de taxa de transmissão máxima de sistemas 4G e 5G - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_2/blob/main/h03.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h03.ipynb)
 
@@ -133,10 +130,9 @@
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
 
-
 -->
 
-## UNIDADE III
+## UNIDADE II
 
 ### Hands-on 01: Instalação de Núcleo do Rede 5G (5GC) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons//H01_5GCore_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons//H01_5GCore_UNI_III.ipynb)
 
@@ -161,7 +157,7 @@
 - Inspec gNB status in 5GC Core
 
 **Entrega:**
-- Apresentação sem sala mostrando o gNB instalada e respondendo as questões levantadas com as devidas evidências.
+- Apresentação sem sala mostrando a gNB instalada e respondendo às questões levantadas com as devidas evidências.
 
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
@@ -178,7 +174,6 @@
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
 
-<!--
 ### Hands-on 05: Alternative installation of the whole 5G system - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/H01_5GFast_Deployment_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/H01_5GFast_Deployment_UNI_III.ipynb)
 
 #### Objetivos
@@ -188,7 +183,7 @@
 - Defined in the previous hands-on.
 
 
-
+-->
 
 ## UNIDADE III
 
