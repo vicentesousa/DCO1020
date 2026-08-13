@@ -1,6 +1,6 @@
-# DCO1020: Comunicações Móveis - 2026.1
+# DCO1020: Comunicações Móveis - 2026.2
 
-<!--
+
 
 ## UNIDADE I
 
@@ -17,7 +17,7 @@
 - Análise visual de potência recebida 
 - Análise de Outage de potência
 
-**Entrega**: apresentação em slides com os gráficos e discussão.
+**Entrega**: apresentação em slides com gráficos e discussão.
 
 ### Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) 
 
@@ -33,13 +33,14 @@
 **Entregas:**
 - As entregas estão especificadas ao longo do Hands-on;
 - As entregas devem compor um único arquivo **zip** com os códigos separados nas seguintes pastas: Entrega_01. 
-- A pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). 
+- A pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar aos resultados desejados). 
 - Não será necessário produzir um relatório. Contudo, é parte importante da entrega a produção de vídeos (compartilhados no google drive ou youtube), contendo a descrição do código implementado (explicar brevemente o que foi feito, mostrar as formulações em slides se necessário, mostrar como rodar o código e os gráficos gerados). O link do vídeo deve ser informado no arquivo README.txt (caso necessite, compartilhe o vídeo com **vicente.sousa@ufrn.br**);
 - Um vídeo de até 5 minutos deve conter o conteúdo da Entrega_01.
 
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
+<!--
 ## UNIDADE I
 
 ### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
@@ -130,7 +131,7 @@
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
 
--->
+
 
 ## UNIDADE II
 
@@ -181,7 +182,7 @@
 
 **Entrega:**
 - Defined in the previous hands-on.
-
+-->
 
 <!--
 
