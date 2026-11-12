@@ -1,6 +1,7 @@
 # DCO1020: Comunicações Móveis - 2026.2
 
 
+<!--
 
 ## UNIDADE I
 
@@ -40,7 +41,6 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
-<!--
 ## UNIDADE I
 
 ### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
@@ -131,9 +131,9 @@
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
 
+-->
 
-
-## UNIDADE II
+## UNIDADE III
 
 ### Hands-on 01: Instalação de Núcleo do Rede 5G (5GC) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons//H01_5GCore_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons//H01_5GCore_UNI_III.ipynb)
 
@@ -175,6 +175,8 @@
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
 
+<!--
+
 ### Hands-on 05: Alternative installation of the whole 5G system - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/H01_5GFast_Deployment_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/H01_5GFast_Deployment_UNI_III.ipynb)
 
 #### Objetivos
@@ -182,9 +184,8 @@
 
 **Entrega:**
 - Defined in the previous hands-on.
--->
 
-<!--
+
 
 ## UNIDADE III
 
